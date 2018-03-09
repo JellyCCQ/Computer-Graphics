@@ -1,0 +1,17 @@
+﻿  Mesh_Painter.cpp
+f:\计算机图形学\期末大作业\finalexm\finalexm\include\angel.h(63): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+f:\计算机图形学\期末大作业\finalexm\finalexm\include\mat.h(698): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\计算机图形学\期末大作业\finalexm\finalexm\include\mat.h(699): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\计算机图形学\期末大作业\finalexm\finalexm\include\mat.h(700): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\计算机图形学\期末大作业\finalexm\finalexm\include\mat.h(721): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\计算机图形学\期末大作业\finalexm\finalexm\include\mat.h(723): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\计算机图形学\期末大作业\finalexm\finalexm\include\mat.h(726): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\计算机图形学\期末大作业\finalexm\finalexm\include\mat.h(743): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\计算机图形学\期末大作业\finalexm\finalexm\freeimage.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\计算机图形学\期末大作业\finalexm\finalexm\mesh_painter.cpp(77): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+f:\计算机图形学\期末大作业\finalexm\finalexm\mesh_painter.cpp(104): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+f:\计算机图形学\期末大作业\finalexm\finalexm\mesh_painter.cpp(131): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+f:\计算机图形学\期末大作业\finalexm\finalexm\mesh_painter.cpp(158): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+f:\计算机图形学\期末大作业\finalexm\finalexm\mesh_painter.cpp(185): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+f:\计算机图形学\期末大作业\finalexm\finalexm\mesh_painter.cpp(212): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+  finalexm.vcxproj -> F:\计算机图形学\期末大作业\finalexm\Debug\finalexm.exe
